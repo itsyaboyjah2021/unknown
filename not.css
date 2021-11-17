@@ -3,12 +3,12 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Comic Sans MS, Comic Sans, cursive;
 }
 
 /* Style the header */
 header {
-  background-color: 29C76A;
+  background-color: #0A5E43;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -34,7 +34,7 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color: #6699ff;
+  background-color: #C8090F;
   /* height: 300px;  only for demonstration, should be removed */
 }
 
@@ -47,10 +47,10 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color: #6699ff;
+  background-color: #C8090F;
   padding: 10px;
   text-align: center;
-  color: white;
+  color: red;
 }
 
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
